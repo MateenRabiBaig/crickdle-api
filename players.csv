@@ -1,0 +1,51 @@
+name,age,country,role,batting_style,bowling_style,ipl_team
+Virat Kohli,36,India,Batsman,Right-hand bat,Right-arm medium,RCB
+Rohit Sharma,37,India,Batsman,Right-hand bat,Right-arm medium,MI
+Jasprit Bumrah,30,India,Bowler,Right-hand bat,Right-arm fast,MI
+MS Dhoni,43,India,Wicket-keeper,Right-hand bat,Right-arm medium,CSK
+Hardik Pandya,31,India,All-rounder,Right-hand bat,Right-arm fast-medium,MI
+Ravindra Jadeja,35,India,All-rounder,Left-hand bat,Left-arm orthodox,CSK
+KL Rahul,32,India,Wicket-keeper,Right-hand bat,Right-arm medium,LSG
+Shreyas Iyer,29,India,Batsman,Right-hand bat,Right-arm leg-break,PBKS
+Shubman Gill,25,India,Batsman,Right-hand bat,Right-arm off-break,GT
+Rishabh Pant,27,India,Wicket-keeper,Left-hand bat,Right-arm medium,DC
+Suryakumar Yadav,34,India,Batsman,Right-hand bat,Right-arm medium,MI
+Mohammed Siraj,30,India,Bowler,Right-hand bat,Right-arm fast-medium,RCB
+Axar Patel,30,India,All-rounder,Left-hand bat,Left-arm orthodox,DC
+Yuzvendra Chahal,34,India,Bowler,Right-hand bat,Right-arm leg-break,PBKS
+Mohammed Shami,34,India,Bowler,Right-hand bat,Right-arm fast-medium,GT
+Ravichandran Ashwin,37,India,All-rounder,Right-hand bat,Right-arm off-break,CSK
+Ben Stokes,33,England,All-rounder,Left-hand bat,Right-arm fast-medium,
+Joe Root,34,England,Batsman,Right-hand bat,Right-arm off-break,
+Jos Buttler,34,England,Wicket-keeper,Right-hand bat,Right-arm medium,RR
+Jonny Bairstow,34,England,Wicket-keeper,Right-hand bat,Right-arm medium,PBKS
+Pat Cummins,31,Australia,Bowler,Right-hand bat,Right-arm fast,SRH
+Steve Smith,35,Australia,Batsman,Right-hand bat,Right-arm leg-break,DC
+David Warner,37,Australia,Batsman,Left-hand bat,Right-arm medium,DC
+Mitchell Starc,34,Australia,Bowler,Left-hand bat,Left-arm fast,KKR
+Glenn Maxwell,36,Australia,All-rounder,Right-hand bat,Right-arm off-break,RCB
+Kane Williamson,34,New Zealand,Batsman,Right-hand bat,Right-arm off-break,SRH
+Trent Boult,35,New Zealand,Bowler,Right-hand bat,Left-arm fast-medium,MI
+Devon Conway,33,New Zealand,Wicket-keeper,Left-hand bat,Right-arm medium,CSK
+Babar Azam,30,Pakistan,Batsman,Right-hand bat,Right-arm medium,
+Shaheen Afridi,24,Pakistan,Bowler,Left-hand bat,Left-arm fast,
+Mohammad Rizwan,32,Pakistan,Wicket-keeper,Right-hand bat,Right-arm medium,
+Shadab Khan,25,Pakistan,All-rounder,Right-hand bat,Right-arm leg-break,
+Kagiso Rabada,29,South Africa,Bowler,Right-hand bat,Right-arm fast,PBKS
+Quinton de Kock,32,South Africa,Wicket-keeper,Left-hand bat,Right-arm medium,LSG
+Faf du Plessis,40,South Africa,Batsman,Right-hand bat,Right-arm medium,RCB
+Aiden Markram,29,South Africa,Batsman,Right-hand bat,Right-arm off-break,SRH
+Shakib Al Hasan,37,Bangladesh,All-rounder,Left-hand bat,Left-arm orthodox,
+Mustafizur Rahman,28,Bangladesh,Bowler,Right-hand bat,Left-arm fast-medium,
+Rashid Khan,26,Afghanistan,Bowler,Right-hand bat,Right-arm leg-break,GT
+Mohammad Nabi,39,Afghanistan,All-rounder,Right-hand bat,Right-arm off-break,
+Nicholas Pooran,29,West Indies,Wicket-keeper,Left-hand bat,Right-arm medium,LSG
+Kieron Pollard,36,West Indies,All-rounder,Right-hand bat,Right-arm fast-medium,MI
+Andre Russell,36,West Indies,All-rounder,Right-hand bat,Right-arm fast,KKR
+Sunil Narine,35,West Indies,All-rounder,Left-hand bat,Right-arm off-break,KKR
+Alzarri Joseph,27,West Indies,Bowler,Right-hand bat,Right-arm fast,MI
+Shreyas Gopal,31,India,Bowler,Right-hand bat,Right-arm leg-break,RR
+Washington Sundar,24,India,All-rounder,Right-hand bat,Right-arm off-break,SRH
+Ishan Kishan,26,India,Wicket-keeper,Left-hand bat,Right-arm medium,MI
+Sanju Samson,29,India,Wicket-keeper,Right-hand bat,Right-arm medium,RR
+Yashasvi Jaiswal,22,India,Batsman,Left-hand bat,Right-arm leg-break,RR
