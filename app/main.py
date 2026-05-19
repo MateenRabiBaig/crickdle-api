@@ -18,7 +18,7 @@ app.add_middleware(
 
 app.include_router(router, prefix="/api/v1")
 
-@app.get("/")
+@app.api_route("/", methods=["GET", "HEAD"])
 def root():
     return {
         "message": "Welcome to Crickdle API",
